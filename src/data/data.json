@@ -1,0 +1,355 @@
+{
+  "devices": [
+    {
+      "brandId": 1,
+      "brand": "Samsung",
+      "modelId": 66,
+      "model": "Galaxy A3"
+    },
+    {
+      "brandId": 1,
+      "brand": "Samsung",
+      "modelId": 67,
+      "model": "Galaxy A3s"
+    },
+    {
+      "brandId": 1,
+      "brand": "Samsung",
+      "modelId": 68,
+      "model": "Galaxy A2 Core"
+    },
+    {
+      "brandId": 1,
+      "brand": "Samsung",
+      "modelId": 69,
+      "model": "Galaxy A20"
+    },
+    {
+      "brandId": 1,
+      "brand": "Samsung",
+      "modelId": 71,
+      "model": "Galaxy A20s"
+    },
+    {
+      "brandId": 1,
+      "brand": "Samsung",
+      "modelId": 72,
+      "model": "Galaxy A30"
+    },
+    {
+      "brandId": 1,
+      "brand": "Samsung",
+      "modelId": 73,
+      "model": "Galaxy A30s"
+    },
+    {
+      "brandId": 1,
+      "brand": "Samsung",
+      "modelId": 75,
+      "model": "Galaxy A50"
+    },
+    {
+      "brandId": 1,
+      "brand": "Samsung",
+      "modelId": 76,
+      "model": "Galaxy A50s"
+    },
+    {
+      "brandId": 2,
+      "brand": "Xiaomi",
+      "modelId": 139,
+      "model": "Mi A2"
+    },
+    {
+      "brandId": 2,
+      "brand": "Xiaomi",
+      "modelId": 21,
+      "model": "Mi A3"
+    },
+    {
+      "brandId": 2,
+      "brand": "Xiaomi",
+      "modelId": 182,
+      "model": "Poco F1"
+    },
+    {
+      "brandId": 2,
+      "brand": "Xiaomi",
+      "modelId": 188,
+      "model": "Redmi 5"
+    },
+    {
+      "brandId": 2,
+      "brand": "Xiaomi",
+      "modelId": 189,
+      "model": "Redmi 6"
+    },
+    {
+      "brandId": 2,
+      "brand": "Xiaomi",
+      "modelId": 190,
+      "model": "Redmi 6 Pro"
+    },
+    {
+      "brandId": 2,
+      "brand": "Xiaomi",
+      "modelId": 191,
+      "model": "Redmi 6A"
+    },
+    {
+      "brandId": 2,
+      "brand": "Xiaomi",
+      "modelId": 192,
+      "model": "Redmi 4"
+    },
+    {
+      "brandId": 2,
+      "brand": "Xiaomi",
+      "modelId": 193,
+      "model": "Redmi 7A"
+    },
+    {
+      "brandId": 2,
+      "brand": "Xiaomi",
+      "modelId": 194,
+      "model": "Redmi 5"
+    },
+    {
+      "brandId": 2,
+      "brand": "Xiaomi",
+      "modelId": 195,
+      "model": "Redmi 8A"
+    },
+    {
+      "brandId": 2,
+      "brand": "Xiaomi",
+      "modelId": 196,
+      "model": "Redmi Go"
+    },
+    {
+      "brandId": 2,
+      "brand": "Xiaomi",
+      "modelId": 197,
+      "model": "Redmi K20"
+    },
+    
+    {
+      "brandId": 3,
+      "brand": "Oppo",
+      "modelId": 58,
+      "model": "A83 (2018)"
+    },
+    {
+      "brandId": 3,
+      "brand": "Oppo",
+      "modelId": 61,
+      "model": "F11"
+    },
+    {
+      "brandId": 3,
+      "brand": "Oppo",
+      "modelId": 62,
+      "model": "F11 Pro"
+    },
+    {
+      "brandId": 3,
+      "brand": "Oppo",
+      "modelId": 63,
+      "model": "F7"
+    },
+    {
+      "brandId": 3,
+      "brand": "Oppo",
+      "modelId": 64,
+      "model": "F9"
+    },
+    {
+      "brandId": 3,
+      "brand": "Oppo",
+      "modelId": 65,
+      "model": "Find X"
+    },
+    {
+      "brandId": 3,
+      "brand": "Oppo",
+      "modelId": 15,
+      "model": "K1"
+    },
+    {
+      "brandId": 3,
+      "brand": "Oppo",
+      "modelId": 17,
+      "model": "K3"
+    },
+    {
+      "brandId": 3,
+      "brand": "Oppo",
+      "modelId": 184,
+      "model": "R15 Pro"
+    },
+    {
+      "brandId": 3,
+      "brand": "Oppo",
+      "modelId": 185,
+      "model": "R17"
+    },
+    {
+      "brandId": 4,
+      "brand": "Motorola",
+      "modelId": 26,
+      "model": "Moto E5 Plus"
+    },
+    {
+      "brandId": 4,
+      "brand": "Motorola",
+      "modelId": 28,
+      "model": "Moto E6s"
+    },
+    {
+      "brandId": 4,
+      "brand": "Motorola",
+      "modelId": 29,
+      "model": "Moto G6"
+    },
+    {
+      "brandId": 4,
+      "brand": "Motorola",
+      "modelId": 150,
+      "model": "Moto G6 Play"
+    },
+    {
+      "brandId": 4,
+      "brand": "Motorola",
+      "modelId": 151,
+      "model": "Moto G6 Plus"
+    },
+    {
+      "brandId": 4,
+      "brand": "Motorola",
+      "modelId": 152,
+      "model": "Moto G7"
+    },
+  
+    {
+      "brandId": 5,
+      "brand": "Nokia",
+      "modelId": 2,
+      "model": "3.1 Plus"
+    },
+    {
+      "brandId": 5,
+      "brand": "Nokia",
+      "modelId": 15,
+      "model": "3.2"
+    },
+    {
+      "brandId": 5,
+      "brand": "Nokia",
+      "modelId": 17,
+      "model": "4.2"
+    },
+    {
+      "brandId": 5,
+      "brand": "Nokia",
+      "modelId": 20,
+      "model": "5.1"
+    },
+    {
+      "brandId": 5,
+      "brand": "Nokia",
+      "modelId": 21,
+      "model": "5.1 Plus"
+    },
+    {
+      "brandId": 5,
+      "brand": "Nokia",
+      "modelId": 24,
+      "model": "6.1"
+    },
+    {
+      "brandId": 5,
+      "brand": "Nokia",
+      "modelId": 25,
+      "model": "6.1 Plus"
+    },
+    {
+      "brandId": 5,
+      "brand": "Nokia",
+      "modelId": 26,
+      "model": "6.2"
+    },
+    {
+      "brandId": 5,
+      "brand": "Nokia",
+      "modelId": 30,
+      "model": "4 Plus"
+    },
+    {
+      "brandId": 5,
+      "brand": "Nokia",
+      "modelId": 32,
+      "model": "4.1"
+    },
+    {
+      "brandId": 5,
+      "brand": "Nokia",
+      "modelId": 33,
+      "model": "4.2"
+    },
+   
+    {
+      "brandId": 6,
+      "brand": "Honor",
+      "modelId": 2,
+      "model": "Holly 2 Plus"
+    },
+    {
+      "brandId": 6,
+      "brand": "Honor",
+      "modelId": 181,
+      "model": "Play"
+    },
+    {
+      "brandId": 6,
+      "brand": "Honor",
+      "modelId": 228,
+      "model": "View 20"
+    },
+    {
+      "brandId": 6,
+      "brand": "Lenovo",
+      "modelId": 51,
+      "model": "A5"
+    },
+    {
+      "brandId": 7,
+      "brand": "Lenovo",
+      "modelId": 54,
+      "model": "A6 Note"
+    },
+    {
+      "brandId": 7,
+      "brand": "Lenovo",
+      "modelId": 16,
+      "model": "K3 Note"
+    },
+    {
+      "brandId": 7,
+      "brand": "Lenovo",
+      "modelId": 18,
+      "model": "K9"
+    },
+    {
+      "brandId": 7,
+      "brand": "Lenovo",
+      "modelId": 173,
+      "model": "Phab 2"
+    },
+    {
+      "brandId": 7,
+      "brand": "Lenovo",
+      "modelId": 174,
+      "model": "Phab 2 Plus"
+    }
+  ]
+}
