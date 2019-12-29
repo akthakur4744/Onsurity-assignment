@@ -7,6 +7,31 @@
   pointer-events: none;
 }
 
+.img-border{
+  border: none !important;
+}
+
+.containerMargin{
+  margin-top: 40px;
+}
+
+.maxcardHeight{
+  height: 400px;
+}
+
+.form-padding{
+  padding: 5%;
+}
+
+.alignDiv{
+  margin: 0px auto;
+}
+
+.form-style {
+  padding-top: 7%;
+  padding-bottom: 10%;
+}
+
 @media (prefers-reduced-motion: no-preference) {
   .App-logo {
     animation: App-logo-spin infinite 20s linear;
