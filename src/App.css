@@ -11,6 +11,10 @@
   border: none !important;
 }
 
+.btnClr{
+  background-color: #ff2c40  !important;
+}
+
 .containerMargin{
   margin-top: 40px;
 }

@@ -15,7 +15,7 @@ const Layout = () => {
             <Container className='containerMargin'>
                 <div>
                     <h1>{StaticText.headingText}</h1>
-                    <span>{StaticText.headingSupportingText}</span>
+                    <h4>{StaticText.headingSupportingText}</h4>
                 </div>
                 <Row className='form-padding'>
                     <Col className='form-style'>
